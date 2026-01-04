@@ -1,6 +1,12 @@
 # Expense Tracker
 A simple and efficient expense tracking application that helps you manage and monitor your personal expenses with ease.
 
+<img width="994" height="378" alt="image" src="https://github.com/user-attachments/assets/da2859be-7a67-43fd-ae43-41d2238aa422" />
+
+
+<img width="1004" height="658" alt="image" src="https://github.com/user-attachments/assets/4446ea77-ef33-4fb3-9d49-46502faf24d0" />
+
+
 # Features
 
 **Add Expenses:** Record expenses with date, amount, category, subcategory, and notes
@@ -14,4 +20,5 @@ A simple and efficient expense tracking application that helps you manage and mo
 **Monthly Summaries**: Calculate spending totals for specific time periods
 
 **Shared Expenses**: Track who paid for group expenses with notes
+
 
